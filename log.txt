@@ -1,4 +1,7 @@
-878c25c Task 2.
+32d38ca Task 2.4
+878c25c Task 2.3
 c56c6e0 Task 2.2
 7064222 Task 2.1
+7064222 Task 1.2
+7064222 Task 1.1
 05986f7 Initial commit
